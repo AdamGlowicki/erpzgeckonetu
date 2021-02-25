@@ -1,0 +1,220 @@
+
+.clipboard.cadastre {
+	font-size: 1.05em;
+	font-family: inherit;
+	color: rgba(0, 0, 0, 0.87)
+}
+
+.clipboard.cadastre td {
+	padding: 0.5em 1em;
+	border: 1px solid silver;
+	border-collapse: collapse
+}
+
+.clipboard.cadastre .csTTytul {
+	background-color: white;
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+	border: 1px solid silver;
+	padding: 0.7em
+}
+
+.clipboard.cadastre .csTytul {
+	background-color: #e1e1e1;
+	text-align: center;
+	font-weight: bold;
+	padding: 0.6em
+}
+
+.clipboard.cadastre .csDTytul {
+	background-color: #e1e1e1;
+	text-align: center;
+	font-weight: bold
+}
+
+.clipboard.cadastre .csOpis {
+	background-color: #e1e1e1;
+	text-align: left;
+	font-size: 0.9em;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csROpis {
+	background-color: #e1e1e1;
+	text-align: right;
+	font-size: 0.9em;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csBOpis {
+	background-color: #e1e1e1;
+	text-align: left;
+	font-size: 0.9em;
+	font-weight: bold
+}
+
+.clipboard.cadastre .csCOpis {
+	background-color: #e1e1e1;
+	text-align: center;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csMOpis {
+	background-color: #e1e1e1;
+	text-align: left;
+	font-size: 0.85em;
+	border-top-width: 1px;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csCMOpis {
+	background-color: #e1e1e1;
+	text-align: center;
+	font-size: 0.85em;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csRMOpis {
+	background-color: #e1e1e1;
+	text-align: right;
+	font-size: 0.85em;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csMark {
+	background-color: #DEDEDE;
+	text-align: left;
+	font-size: 0.9em;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csMark2 {
+	background-color: #CCCCCC;
+	text-align: left;
+	font-size: 0.85em;
+	margin: auto;
+	vertical-align: top
+}
+
+.clipboard.cadastre .csDane {
+	background-color: white;
+	text-align: left;
+	font-size: 0.85em
+}
+
+.clipboard.cadastre .csBDane {
+	background-color: white;
+	text-align: left;
+	font-size: 0.85em;
+	font-weight: bold
+}
+
+.clipboard.cadastre .tbOdpis {
+	background-color: #e1e1e1;
+	cell-spacing: 0;
+	cell-padding: 0;
+	margin: 0px;
+	border-collapse: collapse
+}
+
+.clipboard.cadastre div.zakl {
+	position: static;
+	bottom: 100px;
+	right: 50px;
+	left: 100px;
+	top: 50px
+}
+
+.clipboard.cadastre .nagOpWnio {
+	font-size: 0.9em;
+	border: 1px outset Olive;
+	background-color: #404da6;
+	padding-top: 3px;
+	color: #FFFAFA;
+	text-align: left;
+	font-style: italic
+}
+
+.clipboard.cadastre .csCDane {
+	background-color: white;
+	text-align: center;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csRDane {
+	background-color: white;
+	text-align: right;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csMDane {
+	background-color: white;
+	text-align: left;
+	font-size: 0.85em;
+	border-left: 3px;
+	border-right: 3px;
+	border-left-color: black
+}
+
+.clipboard.cadastre .csBreak {
+	background-color: #e1e1e1;
+	text-align: left;
+	font-size: 1px
+}
+
+.clipboard.cadastre .csKasujGorna {
+	background-color: white;
+	text-align: left;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csKasujGornaZamknieta {
+	background-color: #888888;
+	text-align: left;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csKasujDolna {
+	background-color: white;
+	text-align: left;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csKasujGorna {
+	background-color: white;
+	text-align: left;
+	font-size: 0.9em
+}
+
+.clipboard.cadastre .csKasujObie {
+	background-color: white;
+	text-align: left;
+	font-size: 0.9em;
+	color: white
+}
+
+.clipboard.cadastre .csBreak2 {
+	border-top: 0px;
+	border-bottom: 0px
+}
+
+.clipboard.cadastre .csTBreak {
+	background-color: white;
+	text-align: left;
+	font-size: 1px
+}
+
+.clipboard.cadastre input.dis {
+	background-color: #E0E0E0
+}
+
+.clipboard.cadastre .kwsection {
+	overflow: auto
+}

@@ -1,0 +1,20 @@
+export const TASK_NAME_ENUMS = {
+    Vision: 'Wizja',
+    Arrangements: 'Uzgodnienia',
+    ArrangementsOperator: 'Uzgodnienia z operatorem',
+    ArrangementsOwner: 'Uzgodnienia z Właścicielem',
+    ArrangementsENERGA_ENEA: 'Uzgodnienia ENERGA/ENEA',
+    Armament: 'Uzbrajanie',
+    Welding: 'Spawanie',
+    Pickup: 'Odbiór',
+    Inventory: 'Inwentaryzacja',
+    SeizeStreet: 'Zajęcie pasa',
+    MakeCableLine: 'Wytyczanie linii kablowej',
+    Project: 'Project',
+    Consent_Contracts: 'Zgody/Umowy',
+    ZUD: 'ZUD',
+    POR: 'P.O.R',
+    RouteToPd: 'Trasa do PD',
+    RouteFromPd: 'Trasa od PD',
+    Mdcp_geod: 'MDCP - geod'
+};
